@@ -34,7 +34,7 @@ Following operations were required :
 
 Expectations :
 
-- Code should be moduler and all responsibilities shouldn’t be jammed in 1/2 classes. Basically they wanted this to be layered : dao layer, api layer like that.
+- Code should be moduler and all responsibilities shouldn’t be jammed in 1/2 classes. Basically code should be layered : dao layer, api layer etc...
 - Code must be working and demoable.
 - handle failures gracefully
 - Cover corner cases
